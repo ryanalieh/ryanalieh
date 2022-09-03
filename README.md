@@ -62,8 +62,4 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lxnar-dev&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="lxnar-dev" 
-    bg_color=#808080/></p>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9hesl9j5pklbfhrnexgyvrma7&cover_image=true&theme=default&bar_color=1894c9)](https://github.com/kittinan/spotify-github-profile)
