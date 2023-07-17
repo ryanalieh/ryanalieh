@@ -11,6 +11,7 @@
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
+- 🤖 I’m also currently working at Lucie, a discord bot. (https://lucie.gg)
 
 - 📫 How to reach me **lxnar.dev@gmail.com**
 
