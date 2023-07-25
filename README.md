@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lxnar.dev@gmail.com**
 
-- ⚡ Fun fact **I’m autistic**
+- ⚡ Fun fact **I’m autistic (not literally)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
