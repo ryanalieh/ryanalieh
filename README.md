@@ -30,9 +30,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9hesl9j5pklbfhrnexgyvrma7&cover_image=true&theme=default&bar_color=1894c9)](https://github.com/kittinan/spotify-github-profile)
 
-<details>
-<summary></summary>
-<a href="https://discord.com/users/914588184946552832">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1064895047759314946" align="left" />
-</a>
-</details>
+[![Discord Presence](https://lanyard.cnrad.dev/api/914588184946552832)](https://discord.com/users/914588184946552832)
