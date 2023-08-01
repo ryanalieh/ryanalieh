@@ -29,3 +29,4 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9hesl9j5pklbfhrnexgyvrma7&cover_image=true&theme=default&bar_color=1894c9)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://discord.com/users/914588184946552832">
