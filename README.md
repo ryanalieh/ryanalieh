@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src=mona-loading-dark.gif alt="snake" />
+  <img src="mona-loading-dark.gif" alt="snake" width="15%" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Software Developer & Ethical Hacker.</h3>
