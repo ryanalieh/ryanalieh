@@ -19,7 +19,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working for [Lucie](https://lucie.gg)<br><br>- 🌱 I’m currently learning **Go, Bash, TypeScript**<br><br>- 👯 I’m also working on **GhostyBot, my own discord bot.**<br><br>- 📫 How to reach me **lxnar.dev@gmail.com**<br><br>- ⚡ Fun fact: **I’m autistic (not literally)**<br>
+- 🔭 I’m currently working for [Lucie](https://lucie.gg)<br><br>- 🌱 I’m currently learning **Go, Bash, TypeScript**<br><br><br><br>- 📫 How to reach me **lxnar.dev@gmail.com**<br><br>- ⚡ Fun fact: **I’m autistic (not literally)**<br>
 
 
 ## 🌐 Socials:
