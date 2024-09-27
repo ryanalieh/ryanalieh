@@ -30,7 +30,7 @@ I make software that is held together by glue, hopes, and dreams.
 
 ## GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=ryanalieh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>v-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=ryanalieh&theme=dark&hide_border=false)<br/>
+<!--[](https://github-readme-streak-stats.herokuapp.com/?user=ryanalieh&theme=dark&hide_border=false)<br/> -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanalieh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ## GitHub Trophies
