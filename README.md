@@ -10,7 +10,7 @@ I make software that is held together by glue, hopes, and dreams.
 <h3 align="left"> Programming Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,typescript,go,java,python,cs,bash" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,typescript,go,cs,java,python,bash" />
   </a>
 </p>
 
