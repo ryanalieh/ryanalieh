@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=lxnar-dev&icon=0&color=7)](https://visitcount.itsvg.in)
-
 Hey,
 --- 
 I make software that is held together by glue, hopes, and dreams.
